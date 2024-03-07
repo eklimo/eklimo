@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello 👋
+
+🏔️ Open-source contributions:
+- [Summit AST](https://github.com/google/summit-ast/pulls?q=author%3Aeklimo)
+- [PMD](https://github.com/pmd/pmd/commits?author=eklimo) — Context: [link](https://github.com/pmd/pmd/issues/3766)
+
+🚧 Personal projects:
+- [Dynamic Playlist for Spotify](https://github.com/eklimo/dynamic-playlist) — Full-stack application that integrates with the Spotify Web API
+- [Cygnus](https://github.com/eklimo/cygnus) — Compiler for a toy programming language based on Swift and Rust
+- [WSU Tower Defense](https://github.com/eklimo/towerdefense) — Android tower defense game developed with classmates
 
 <!--
 **eklimo/eklimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
